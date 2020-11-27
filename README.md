@@ -7,7 +7,15 @@ This package is a collection of individual python scripts that can perform data 
 
 Does not require installation, can be run by invokin python. All the scripts were written in Python v.3.8.0
 
+### Usage
 
+
+
+
+
+#### HPC job scripts
+
+Make the necessary changes such as the no. of CPUs, threads according to your configuration. Save the file with .slurm, .sh extensions and adjust line breaking styles based on your system requirements. 
 
 
 
@@ -17,3 +25,5 @@ Does not require installation, can be run by invokin python. All the scripts wer
 
 
 ### License
+
+GNU General Public License v3.0 (https://www.gnu.org/licenses/gpl-3.0.en.html)
