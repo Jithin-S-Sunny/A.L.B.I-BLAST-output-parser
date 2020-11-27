@@ -9,14 +9,16 @@ Does not require installation, can be run by invokin python in windows or linux.
 
 ### Usage
 
-For extracting the top similarity hits out of the BLAST+ default 5:
+#### For extracting the top similarity hits out of the BLAST+ default 5:
 
 python topscore_headers.py
 
 Input: blast_input, 
 Output: out2.txt
 
-For  
+#### For counting number of enzymes:
+
+python 
 
 
 
