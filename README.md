@@ -22,7 +22,7 @@ python type_enzyme.py
 
 input: out2.txt
   
-### For finding relative abundance of one protien
+#### For finding relative abundance of one protien
 
 python relative_abundance.py
 
