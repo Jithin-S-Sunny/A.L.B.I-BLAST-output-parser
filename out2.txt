@@ -1,0 +1,412 @@
+>WP_121056713.1 MULTISPECIES: alpha/beta fold hydrolase [Clostridiales]
+
+
+
+>CDC62052.1 putative uncharacterized protein [Clostridium sp. CAG:417]
+
+
+
+>CDC98753.1 esterase/lipase [Alistipes sp. CAG:268]
+
+
+
+>OLA39476.1 hypothetical protein BHW43_00905 [Phascolarctobacterium succinatutens]
+
+
+
+>CBK97162.1 Predicted permease [ [[Eubacterium] siraeum 70/3]
+
+
+
+>CDC61160.1 putative uncharacterized protein [Clostridium sp. CAG:417]
+
+
+
+>CDC98069.1 alpha amylase catalytic domain protein [Alistipes sp. CAG:268]
+
+
+
+>WP_118200481.1 alpha-amylase [Prevotella copri]
+
+
+
+>WP_005362514.1 alpha-glycosidase [Eubacterium ventriosum]
+
+
+
+>CDA65122.1 pullulanase type I [Prevotella copri CAG:164]
+
+
+
+>CDC96688.1 alpha-amylase/alpha-mannosidase [Alistipes sp. CAG:268]
+
+
+
+>WP_117587639.1 CPBP family intramembrane metalloprotease [Prevotella copri]
+
+
+
+>WP_113999504.1 U32 family peptidase [Subdoligranulum sp. APC924/74]
+
+
+
+>WP_118088379.1 ATP-dependent metallopeptidase FtsH/Yme1/Tma family protein [Roseburia 
+
+
+
+>CDC95562.1 zn-dependent protease with chaperone function [Alistipes sp. 
+
+
+
+>CCX45717.1 aTP-dependent zinc metalloprotease FtsH 1 [Firmicutes bacterium 
+
+
+
+>CDC62333.1 aTP-dependent zinc metalloprotease FtsH [Clostridium sp. CAG:417]
+
+
+
+>CDC61623.1 peptidase U32 family [Clostridium sp. CAG:417]
+
+
+
+>CDC61610.1 peptidase U32 family [Clostridium sp. CAG:417]
+
+
+
+>CCX46003.1 putative molecular chaperone [Firmicutes bacterium CAG:103]
+
+
+
+>WP_005362609.1 PDZ domain-containing protein [Eubacterium ventriosum]
+
+
+
+>WP_129651164.1 Clp protease ClpP [Alistipes senegalensis]
+
+
+
+>CBL34908.1 ATP-dependent Clp protease proteolytic subunit ClpP [ [[Eubacterium] 
+
+
+
+>WP_033117125.1 MULTISPECIES: phage prohead protein [Clostridiales]
+
+
+
+>RCH52511.1 hypothetical protein C4885_05385 [Subdoligranulum sp. APC924/74]
+
+
+
+>OKZ86528.1 hypothetical protein BHW09_06505 [Clostridium sp. CAG:245_30_32]
+
+
+
+>WP_117911799.1 tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex 
+
+
+
+>SCJ13274.1 Uncharacterized protease yhbU precursor [uncultured Ruminococcus 
+
+
+
+>CDC48886.1 periplasmic protease [Eubacterium siraeum CAG:80]
+
+
+
+>CDC48886.1 periplasmic protease [Eubacterium siraeum CAG:80]
+
+
+
+>OKY93803.1 hypothetical protein BHV66_07810 [Alistipes putredinis]
+
+
+
+>CCY90200.1 peptidase U32 [Eubacterium sp. CAG:180]
+
+
+
+>WP_006846600.1 bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate 
+
+
+
+>WP_009987195.1 ATP-dependent Clp endopeptidase proteolytic subunit ClpP [Ruminococcus 
+
+
+
+>OKZ89197.1 hypothetical protein BHW09_00730 [Clostridium sp. CAG:245_30_32]
+
+
+
+>OJV40834.1 hypothetical protein BGO29_14800 [Bacteroidales bacterium 36-12]
+
+
+
+>WP_005681676.1 zinc metallopeptidase [Bacteroides caccae]
+
+
+
+>CDC95650.1 rND family efflux transporter MFP subunit [Alistipes sp. CAG:268]
+
+
+
+>WP_107000972.1 MULTISPECIES: YegS/Rv2252/BmrU family lipid kinase [Clostridiales]
+
+
+
+>OLA52226.1 tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex 
+
+
+
+>WP_008860900.1 acetyl-CoA carboxylase biotin carboxyl carrier protein subunit 
+
+
+
+>CDC96674.1 c-terminal peptidase (Prc) [Alistipes sp. CAG:268]
+
+
+
+>WP_118550622.1 hypothetical protein [Firmicutes bacterium AF22-6AC]
+
+
+
+>WP_055152142.1 hypothetical protein [Blautia wexlerae]
+
+
+
+>CDC95566.1 rIP metalloprotease RseP [Alistipes sp. CAG:268]
+
+
+
+>WP_144154972.1 DJ-1/PfpI family protein [Prevotella copri]
+
+
+
+>WP_114000250.1 DUF58 domain-containing protein [Subdoligranulum sp. APC924/74]
+
+
+
+>WP_130503203.1 ATP-dependent Clp protease ATP-binding subunit ClpX [Halopeptonella 
+
+
+
+>WP_004329921.1 U32 family peptidase [Alistipes putredinis]
+
+
+
+>CCY92861.1 aTP-dependent zinc metalloprotease FtsH [Eubacterium sp. CAG:180]
+
+
+
+>CCY92861.1 aTP-dependent zinc metalloprotease FtsH [Eubacterium sp. CAG:180]
+
+
+
+>RGB92897.1 U32 family peptidase [Faecalibacterium prausnitzii]
+
+
+
+>CCX45434.1 peptidase U32 family [Firmicutes bacterium CAG:103]
+
+
+
+>WP_004329505.1 zinc metallopeptidase [Alistipes putredinis]
+
+
+
+>CDC62049.1 uncharacterized protein BN650_01033 [Clostridium sp. CAG:417]
+
+
+
+>CDC61270.1 germination protease [Clostridium sp. CAG:417]
+
+
+
+>CCX46467.1 rIP metalloprotease RseP [Firmicutes bacterium CAG:103]
+
+
+
+>CDC95998.1 putative uncharacterized protein [Alistipes sp. CAG:268]
+
+
+
+>WP_005359572.1 ATP-dependent Clp protease ATP-binding subunit ClpX [Eubacterium 
+
+
+
+>CDC12719.1 peptidase membrane zinc metallopeptidase [Clostridium sp. CAG:413]
+
+
+
+>CBK96710.1 DJ-1 family protein [ [[Eubacterium] siraeum 70/3]
+
+
+
+>CDC96674.1 c-terminal peptidase (Prc) [Alistipes sp. CAG:268]
+
+
+
+>WP_004033064.1 TldD/PmbA family protein [Methanobrevibacter smithii]
+
+
+
+>CCX46406.1 aTP-dependent zinc metalloprotease FtsH 3 [Firmicutes bacterium 
+
+
+
+>WP_004328857.1 hypothetical protein [Alistipes putredinis]
+
+
+
+>WP_005362061.1 tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex 
+
+
+
+>CDA59280.1 peptidase U32 [Clostridium sp. CAG:245]
+
+
+
+>CCY91790.1 cAAX amino terminal protease family protein [Eubacterium sp. 
+
+
+
+>WP_074783479.1 CPBP family intramembrane metalloprotease [Bacteroides vulgatus]
+
+
+
+>WP_118379397.1 S8 family serine peptidase [Eubacterium ventriosum]
+
+
+
+>WP_004329336.1 hypothetical protein [Alistipes putredinis]
+
+
+
+>CBK96164.1 Cysteine protease [ [[Eubacterium] siraeum 70/3]
+
+
+
+>CDB26346.1 probable tRNA threonylcarbamoyladenosine biosynthesis protein 
+
+
+
+>WP_021951944.1 MULTISPECIES: ATP-dependent Clp endopeptidase proteolytic subunit 
+
+
+
+>CCX45759.1 lon protease [Firmicutes bacterium CAG:103]
+
+
+
+>CDC98221.1 probable tRNA threonylcarbamoyladenosine biosynthesis protein 
+
+
+
+>CCY89851.1 putative uncharacterized protein [Eubacterium sp. CAG:180]
+
+
+
+>CDB25291.1 phage prohead protease HK97 family [Oscillibacter sp. CAG:241]
+
+
+
+>EDS02301.1 SPFH/Band 7/PHB domain protein [Alistipes putredinis DSM 17216]
+
+
+
+>PWM05386.1 cell division protein FtsH [Eubacterium ventriosum]
+
+
+
+>CDC60924.1 aTP-dependent Clp protease ATP-binding subunit ClpX [Clostridium 
+
+
+
+>WP_114001003.1 endopeptidase La [Subdoligranulum sp. APC924/74]
+
+
+
+>WP_114001003.1 endopeptidase La [Subdoligranulum sp. APC924/74]
+
+
+
+>CDC99598.1 prolyl oligopeptidase . Serine peptidase. MEROPS family S09A 
+
+
+
+>WP_117887806.1 MULTISPECIES: CPBP family intramembrane metalloprotease [Bacteroides]
+
+
+
+>WP_055143016.1 hypothetical protein [[Eubacterium] siraeum]
+
+
+
+>EHL89970.1 hypothetical protein HMPREF1033_00139 [Tannerella sp. 6_1_58FAA_CT1]
+
+
+
+>WP_005835582.1 MULTISPECIES: transglutaminase domain-containing protein [Bacteroides]
+
+
+
+>WP_119236643.1 U32 family peptidase [Prevotella copri]
+
+
+
+>CDC61500.1 staphylococcus haemolyticus JCSC1435 DNA complete genome [Clostridium 
+
+
+
+>CDC61502.1 glycoprotease/Kae1 family metallohydrolase [Clostridium sp. CAG:417]
+
+
+
+>WP_120439727.1 MULTISPECIES: hypothetical protein [unclassified Bacteria (miscellaneous)]
+
+
+
+>WP_117914943.1 MULTISPECIES: ATP-dependent Clp protease ATP-binding subunit 
+
+
+
+>WP_022219009.1 MULTISPECIES: tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase 
+
+
+
+>WP_144155085.1 endopeptidase La [Prevotella copri]
+
+
+
+>WP_117970960.1 S8 family peptidase [Eubacterium ventriosum]
+
+
+
+>WP_006847966.1 RIP metalloprotease RseP [Prevotella copri]
+
+
+
+>WP_117969383.1 SPFH/Band 7/PHB domain protein [Eubacterium ventriosum]
+
+
+
+>WP_118668597.1 FtsH protease activity modulator HflK [Clostridium sp. TF08-15]
+
+
+
+>WP_085346275.1 tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex 
+
+
+
+>CDE66092.1 lon protease [Alistipes putredinis CAG:67]
+
+
+
+>PWM79226.1 ATP-dependent Clp protease proteolytic subunit [Clostridium sp.]
+
+
+
+>PWM14154.1 hypothetical protein DBX57_05465, partial [Clostridia bacterium]
+
+
+
