@@ -22,11 +22,17 @@ python type_enzyme.py
 
 input: out2.txt
   
-#### For finding relative abundance of one protien
+#### For finding relative abundance of a single user defined protien
 
 python relative_abundance.py
 
 input: out2.txt
+
+#### For comparing abundance of multiple user defined proteins
+
+python 
+
+#### To convert BLAST+ output file into FASTA file
 
 
 
