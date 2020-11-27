@@ -16,11 +16,12 @@ python topscore_headers.py
 Input: blast_input, 
 Output: out2.txt
 
-#### For counting number of enzymes:
+#### For finidng a particular user defined proteins and its abundance of enzymes:
 
-python 
+python type_enzyme.py
 
-
+input: out2.txt
+  
 
 #### HPC job scripts
 
