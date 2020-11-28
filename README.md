@@ -27,13 +27,15 @@ python relative_abundance.py
 
 Input file: out2.txt
 
-
+refer Figure_1.png
 
 #### For comparing abundance of multiple user defined proteins with graphical output
 
 python protein_graph.py
 
 Input file: out2.txt
+
+refer Figure_2.png
 
 #### To convert BLAST+ output file into FASTA file
 
