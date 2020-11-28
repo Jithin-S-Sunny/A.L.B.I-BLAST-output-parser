@@ -7,6 +7,8 @@ This package is a collection of individual python scripts that can perform data 
 
 Does not require installation, can be run by invoking python in windows or linux. All the scripts were written in Python v.3.8.0
 
+### Prerequisites
+
 ### Usage
 
 #### For extracting the top similarity hits out of the BLAST+ default 5:
