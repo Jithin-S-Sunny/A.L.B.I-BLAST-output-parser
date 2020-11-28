@@ -15,18 +15,21 @@ Does not require installation, can be run by invoking python in windows or linux
 
 python topscore_headers.py
 
-Input: blast_input, 
-Output: out2.txt
+Input file: blast_input.txt 
+
+Output file: out2.txt
   
 #### For finding relative abundance of a single user defined protien
 
 python relative_abundance.py
 
-input: out2.txt
+Input file: out2.txt
 
-#### For comparing abundance of multiple user defined proteins
+#### For comparing abundance of multiple user defined proteins with graphical output
 
-python 
+python protein_graph.py
+
+Input file: out2.txt
 
 #### To convert BLAST+ output file into FASTA file
 
