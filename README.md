@@ -27,6 +27,8 @@ python relative_abundance.py
 
 Input file: out2.txt
 
+
+
 #### For comparing abundance of multiple user defined proteins with graphical output
 
 python protein_graph.py
