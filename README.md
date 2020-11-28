@@ -1,6 +1,6 @@
 # Analysis of Large Blast Inputs: A.L.B.I
 
-This package is a collection of individual python scripts that can perform data parsing of standalone BLAST+ ouput file. Besides this, SLURM and PBS scripts have been provided to run large BLAST+ inputs. This can be useful in metagenomics runs.
+This package is a collection of individual python scripts that can perform data parsing of standalone BLAST+ ouput file. Besides this, SLURM and PBS scripts have been provided to run large BLAST+ inputs which can be useful for metagenomic data analysis.
 
 
 ### Installation
@@ -8,6 +8,8 @@ This package is a collection of individual python scripts that can perform data 
 Does not require installation, can be run by invoking python in windows or linux. All the scripts were written in Python v.3.8.0
 
 ### Prerequisites
+
+python library: numpy & matplotlib 
 
 ### Usage
 
@@ -33,7 +35,7 @@ Input file: out2.txt
 
 #### To convert BLAST+ output file into FASTA file
 
-
+python 
 
 
 #### HPC job scripts
@@ -42,6 +44,7 @@ Make the necessary changes such as the no. of CPUs, threads according to your co
 
 ### Support
 
+SRM-IST HPC systems
 
 ### License
 
