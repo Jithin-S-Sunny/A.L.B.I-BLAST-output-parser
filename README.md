@@ -35,7 +35,7 @@ Input file: out2.txt
 
 #### To convert BLAST+ output file into FASTA file
 
-python 
+Keeping im mind the various requirements a user may have  
 
 
 #### HPC job scripts
