@@ -5,7 +5,7 @@ This package is a collection of individual python scripts that can perform data 
 
 ### Installation
 
-Does not require installation, can be run by invokin python in windows or linux. All the scripts were written in Python v.3.8.0
+Does not require installation, can be run by invoking python in windows or linux. All the scripts were written in Python v.3.8.0
 
 ### Usage
 
