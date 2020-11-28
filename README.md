@@ -17,12 +17,6 @@ python topscore_headers.py
 
 Input: blast_input, 
 Output: out2.txt
-
-#### For finidng a particular user defined proteins and its abundance of enzymes:
-
-python type_enzyme.py
-
-input: out2.txt
   
 #### For finding relative abundance of a single user defined protien
 
