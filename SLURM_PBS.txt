@@ -1,0 +1,44 @@
+SLURM-script
+
+#!/bin/sh
+
+#SBATCH --job-name=BLAST
+#SBATCH --account=xxx
+#SBATCH --qos=regular
+#SBATCH --time=48:00:00
+#SBATCH --nodes=1
+#SBATCH --constraint= processor in use (ex:AMD)
+#SBATCH --mail-type=ALL
+#SBATCH --mail-user=xxxxx@yyy.zzz
+
+
+
+#OMP_PROC_BIND=close
+#OMP_PLACES=threads
+#OMP_NUM_THREADS=32
+#srun -n 64 -c 4 --cpu 
+
+ 
+TO RUN ANNOTATION
+#NCBI BLAST+
+ //ncbi-blast-2.6.0+/bin/blastp -query //ncbi/CTcontigsamioacidsfour.fa -out //ncbi/CTannotation4.txt -db //ncbi/proteindb/nr -num_descriptions 5 -num_alignments 
+
+-----------------------------x---------------------------------
+
+PBS-script
+
+#!/bin/bash
+#PBS -N sample
+#PBS -q workq
+#PBS -l select=1:ncpus=16:mpiprocs=16
+#PBS -j oe
+#PBS -V
+cd $PBS_O_WORKDIR
+cat $PBS_NODEFILE > ./pbsnodelist
+CORES=`cat ./pbsnodelist|wc -l`
+
+mpi //ncbi-blast-2.6.0+/bin/blastp -query //ncbi/CTcontigsamioacidsfour.fa -out //ncbi/CTannotation4.txt -db //ncbi/proteindb/nr -num_descriptions 5 -num_alignments 5
+
+
+
+
