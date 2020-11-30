@@ -39,13 +39,13 @@ refer Figure_2.png
 
 #### To convert BLAST+ output file into FASTA file
 
+Keeping im mind the various requirements a user may have, this script is divided into 3 segments where the user can retrieve the information required. ALthough, the entire script can work independantluy as well. 
+
 python blast2fasta.py
 
 Input file: blast_input.txt
 
-Output file: Fasta.txt
-
-Keeping im mind the various requirements a user may have, this script is divided into 3 segments where the user can retrieve the information required. ALthough, the entire script can work independantluy as well.   
+Output file: Fasta.txt  
 
 
 #### HPC job scripts
