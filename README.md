@@ -62,6 +62,6 @@ GNU General Public License v3.0 (https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 
 ### Project status
-Work presented at ICIBLS 2020. "Proceedings of International Conference on  Innovations in Biotechnology and Life" (AB-005)
-I S B N : 978-93-88647-32-8; D O I : 10.6084/m9.figshare.13947833
+Work presented at ICIBLS 2020. ["Proceedings of International Conference on  Innovations in Biotechnology and Life" (AB-005)
+I S B N : 978-93-88647-32-8; D O I : 10.6084/m9.figshare.13947833](https://books.google.ca/books?id=SA0eEAAAQBAJ&printsec=frontcover#v=onepage&q&f=false)
 
